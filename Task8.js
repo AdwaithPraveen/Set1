@@ -16,3 +16,7 @@ for (let student of students) {
 
 console.log("Highest Marks Student:");
 console.log(highest);
+
+// Output:
+// Highest Marks Student:
+// { name: 'Amit', marks: 95 }

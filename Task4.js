@@ -4,3 +4,6 @@ let student3 = 92;
 
 let average = (student1 + student2 + student3) / 3;
 console.log("Average Marks:", average);
+
+// Output:
+// Average Marks: 85

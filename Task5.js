@@ -5,3 +5,6 @@ if (marks >= 50) {
 } else {
     console.log("Student Failed");
 }
+
+// Output:
+// Student Failed

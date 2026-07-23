@@ -11,3 +11,10 @@ console.log("Name:", student.name);
 console.log("Age:", student.age);
 console.log("Course:", student.course);
 console.log("Marks:", student.marks);
+
+// Output:
+// ID: 101
+// Name: Adwaith
+// Age: 20
+// Course: B-Tech CS & DS
+// Marks: 90

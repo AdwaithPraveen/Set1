@@ -12,3 +12,9 @@ for (let student of students) {
 
     console.log(student.name, student.marks);
 }
+
+
+// Output:
+// Adwaith 85
+// Prasanna 76
+// Ankit 88
